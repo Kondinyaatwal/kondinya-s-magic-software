@@ -1,1 +1,1 @@
-# ARC-2026-27-software
+# kondinyas magic software
