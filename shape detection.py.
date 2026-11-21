@@ -1,6 +1,6 @@
 import cv2 # OpenCV Library
 
-image = cv2.imread("INSERT PATH TO IMAGE FILE HERE")
+image = cv2.imread("shape.jpg")
 
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY) # Converting to gray image
 
